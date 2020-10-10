@@ -1,6 +1,6 @@
 # Welcome to the CanCon Hacktoberfest Umbrackathon!
 
-The full schedule and sign up form is on our website: https://candidcontributions.com/umbrackathon.
+The full schedule and sign up form is on our website 🍄 https://candidcontributions.com/umbrackathon 🍄.
 
 Once you've signed up you will get a link to our Discord server. Please join us over there and say hello!
 
@@ -8,9 +8,7 @@ Once you've signed up you will get a link to our Discord server. Please join us 
 
 The hackathon will run over Zoom; the link will be emailed to all participants the day before. You are welcome to come and go throughout the event. At least two hosts will be on the call at all times, so there will always be someone to welcome you and help out when needed.
 
-Don't worry if you don't know what you want to 'work' on during the hackathon, we've curated a list for you:
-
-### - [The CanCon suggested places to contribute](CONTRIBUTING.md)
+Don't worry if you don't know what to 'work' on during the hackathon; we've put together **[a list of places that you could contribute to](CONTRIBUTING.md)** for this Umbraco Hacktoberfest.
 
 If you want to get started before the hackathon, and get a feel for what you'd like to do, please go ahead! If you would like to collaborate with other people then mention this over on Discord and let's see if we can make that happen. There are various tools that we can use to aid working together such as Zoom breakout rooms, Discord voice calls, and Visual Studio Live Share. Remote collaboration is possible!
 
