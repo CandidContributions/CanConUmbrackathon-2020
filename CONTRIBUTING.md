@@ -56,15 +56,13 @@ It's not all code or documentation. There are other ways that you make a big con
 
 ### Issue Triage
 
-Look at the CMS [issues list with the oldest ones first](https://github.com/umbraco/Umbraco-CMS/issues?q=is%3Aissue+is%3Aopen+sort%3Acreated-asc). A massive contribution would be to go through these old issues and investigate whether the issue is still present; perhaps it's been fixed already! Take some screenshots of what you've discovered and add full details to the issue. You don't need to go anywhere source code for this! [Install the latest version of Umbraco](https://our.umbraco.com/documentation/getting-started/setup/install/) locally and get testing!
+Look at the [CMS issues list with the oldest ones first](https://github.com/umbraco/Umbraco-CMS/issues?q=is%3Aissue+is%3Aopen+sort%3Acreated-asc). A massive contribution would be to go through these old issues and investigate whether the issue is still present; perhaps it's been fixed already! Take some screenshots of what you've discovered and add full details to the issue. You don't need to go anywhere the source code for this! [Install the latest version of Umbraco](https://our.umbraco.com/documentation/getting-started/setup/install/) locally and get testing!
 
 ### Test the Latest Release Candidate
 
-Umbraco v8.9.0 is scheduled for release just after the hackathon. 
+Umbraco v8.9.0 is scheduled for release just after the hackathon. Umbraco HQ [wrote a blog post](https://umbraco.com/blog/umbraco-89-release-candidate/) explaining how people could contribute by helping to test the RC.
 
-Umbraco HQ [wrote a blog post](https://umbraco.com/blog/umbraco-89-release-candidate/) explaining how people could contribute by helping to test the RC.
-
-Obviously the sooner the better for any issues to be reported, so why not try upgrading an existing project today!
+Obviously the sooner the better for any issues to be reported, so why not try upgrading an existing project and get testing.
 
 ### Write a Blog Post
 
