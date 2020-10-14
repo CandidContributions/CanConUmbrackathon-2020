@@ -7,6 +7,6 @@ It's the CanCon cookbook! Add your favourite recipes for a day of coding.
 
 ---------
 
-
+[Sweet potato and peanut stew](Recipes/Sweet potato and peanut stew.md)
 
 
