@@ -25,6 +25,8 @@ NAME: (your name)
 
 OUR: (your our profile link if you have one e.g. https://our.umbraco.com/members/lottepitcher/)
 
+GITHUB: (your github profile link)
+
 LOCATION: (your general location if you are happy to share it)
 
 STATUS: (what you're up to/want to be up to)
