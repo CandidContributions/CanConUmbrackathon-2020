@@ -1,6 +1,6 @@
 # Sourdough
 
-![Finshed](\img\sourdough\finished.jpg)
+![Finshed](..\img\sourdough\finished.jpg)
 
 This consists of making a starter over the course of about a week (depending on how warm your kitchen is) and from the starter, making the bread itself.
 
