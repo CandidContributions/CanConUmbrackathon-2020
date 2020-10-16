@@ -7,25 +7,24 @@ This consists of making a starter over the course of about a week (depending on 
 
 This is based off this [Youtube Recipe](https://www.youtube.com/watch?v=yg5nLQVg4VY)
 
+On day 3, 5 and 7 - a lot of recipes ask you to throw away some of the starter. Rather than that, make a sour pancake out of the starter that you are discarding.
 
 ## Starter : 
-* Day 1: 2 spoons flour + warm water
-* Day 2: 2 spoons flour + warm water
+* Day 1: 2 spoons flour + similar amount of warm water
+* Day 2: 2 spoons flour + similar amount of warm water
 * Day 3: Make a pancake with 1/2 of the starter. 2 spoons flour + warm water.
 * Day 4: 2 spoons flour + warm water
 * Day 5: Make a pancake with 1/2 of the starter. 2 spoons flour + warm water.
 * Day 6: 2 spoons flour + warm water
 * Day 7: Make sourdough with 1/2 of the starter. 2 spoons flour + warm water
 
+Each day you keep adding to the starter, keep it somewhere warm. Cover it but NOT with a tight lid. If the lid is airtight it will probably either get stuck and in extreme cases explode (Literally!)
+
 ![Starter](https://github.com/CandidContributions/CanConUmbrackathon/blob/main/Recipes/img/sourdough/Starter.jpg)
 
-Water in a bowl. 
+Put a bit of warm water in a bowl abd add a drop of starter. If it floats, it's ready to use.
 
-Add a drop of starter. If it floats, it's ready to use.
-
-2/3 white flour, 1/3 wholemeal or any other flour. (500g white, 150g wholemeal)
-
-Sift the flour into a bowl, save the wholemeal bits to top the load with afterwards
+In a mixing bowl, add 2/3 white flour, 1/3 wholemeal or any other flour. (500g white, 150g wholemeal). Sift the flour into a bowl, save the wholemeal bits to top the loaf with afterwards
 
 ![Dough](https://github.com/CandidContributions/CanConUmbrackathon/blob/main/Recipes/img/sourdough/Dough.jpg)
 
