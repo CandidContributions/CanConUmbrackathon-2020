@@ -2,7 +2,7 @@
 
 ## Contributing to the Guestbook
 
-Please add a new markdown file with the following information:
+Please add a new markdown file named `YourGithubUsername.md` with the following information:
 
 ```
 NAME: (your name)
