@@ -15,3 +15,15 @@ If you want to get started before the hackathon, and get a feel for what you'd l
 ## Your Hackathon Aims
 
 If your aim is to earn an _official_ Hacktoberfest t-shirt, or get a tree planted, you will need to make *four* pull requests to repositories that are labeled with the `hacktoberfest` topic. If you want to achieve the _Umbraco_ Hacktoberfest challenge then you need to make *one* pull request to any of the places that we have listed for you. But don't feel obliged to work on things suggested, what you do is really up to you!
+
+## Contributing to the Guestbook
+
+Please add a new markdown file with the following information:
+
+NAME: (your name)
+
+OUR: (your our profile link if you have one e.g. https://our.umbraco.com/members/lottepitcher/)
+
+LOCATION: (your general location if you are happy to share it)
+
+STATUS: (what you're up to/want to be up to)
