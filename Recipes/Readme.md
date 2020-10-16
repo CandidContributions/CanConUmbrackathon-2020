@@ -16,3 +16,5 @@ It's the CanCon cookbook! Add your favourite recipes for a day of coding.
 [Italian lasagna](guiseppes-lasagna.md)
 
 [Silver Fizz](Silver Fizz.md)
+
+[World's best pancakes](World's best pancakes.md)
