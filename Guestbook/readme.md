@@ -1,13 +1,23 @@
 # The CanCon Umbrackathon Guestbook
 
-NAME: Carl Sargunar
+## Contributing to the Guestbook
 
-TWITTER: https://twitter.com/csargunar
+Please add a new markdown file named `YourGithubUsername.md` with the following information:
 
-GITHUB: https://github.com/carlsargunar
+```
+NAME: (your name)
 
-OUR: https://our.umbraco.com/members/CarlSargunar/
+OUR: (your our profile link if you have one e.g. https://our.umbraco.com/members/lottepitcher/)
 
-LOCATION: Bristol, UK
+GITHUB: (your github profile link)
 
-STATUS: Lurking and Hacking
+LOCATION: (your general location if you are happy to share it)
+
+STATUS: (what you're up to/want to be up to)
+```
+
+See: https://github.com/CandidContributions/CanConUmbrackathon/blob/main/Guestbook/LottePitcher.md as an example
+
+## Notes
+
+Good morning Callum! 🥳
