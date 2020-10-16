@@ -18,7 +18,7 @@ If your aim is to earn an _official_ Hacktoberfest t-shirt, or get a tree plante
 
 ## Contributing to the Guestbook
 
-Please add a new markdown file with the following information:
+Please add a new markdown file named `YourGithubUsername.md` with the following information:
 
 ```
 NAME: (your name)
