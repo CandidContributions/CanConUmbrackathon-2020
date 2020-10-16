@@ -26,7 +26,7 @@ Comfort food at its best, with easy cleanup!
 
 ### Directions
 
-1.	*If planning to bake macaroni (optional):* Preheat oven to 350°.
+1.	*If planning to bake macaroni (optional):* Preheat oven to 350°F/180°C.
 2.	Sauté **onions** in **butter** in saucepan until soft.
 3.	Stir in **flour** and **salt**, cook for about a minute.
 4.	Add **milk**, **water**, and **bay leaves**.
