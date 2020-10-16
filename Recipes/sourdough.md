@@ -1,6 +1,6 @@
 # Sourdough
 
-![Finshed](..\img\sourdough\finished.jpg)
+![Finished](https://github.com/CandidContributions/CanConUmbrackathon/blob/main/Recipes/img/sourdough/finished.jpg)
 
 This consists of making a starter over the course of about a week (depending on how warm your kitchen is) and from the starter, making the bread itself.
 
@@ -17,7 +17,7 @@ Day 5: Make a pancake with 1/2 of the starter. 2 spoons flour + warm water.
 Day 6: 2 spoons flour + warm water
 Day 7: Make sourdough with 1/2 of the starter. 2 spoons flour + warm water
 
-![Starter](\img\sourdough\starter.jpg)
+![Starter](img/sourdough/starter.jpg)
 
 Water in a bowl. 
 Add a drop of starter. If it floats, it's ready to use.
