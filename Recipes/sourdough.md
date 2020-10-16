@@ -17,14 +17,14 @@ Day 5: Make a pancake with 1/2 of the starter. 2 spoons flour + warm water.
 Day 6: 2 spoons flour + warm water
 Day 7: Make sourdough with 1/2 of the starter. 2 spoons flour + warm water
 
-![Starter](img/sourdough/starter.jpg)
+![Starter](https://github.com/CandidContributions/CanConUmbrackathon/blob/main/Recipes/img/sourdough/Starter.jpg)
 
 Water in a bowl. 
 Add a drop of starter. If it floats, it's ready to use.
 2/3 white flour, 1/3 wholemeal or any other flour. (500g white, 150g wholemeal)
 Sift the flour into a bowl, save the wholemeal bits to top the load with afterwards
 
-![Dough](\img\sourdough\dough.jpg)
+![Dough](https://github.com/CandidContributions/CanConUmbrackathon/blob/main/Recipes/img/sourdough/Dough.jpg)
 
 The flour is mixed to a wettish mix. Like a really really thick porridge. Not liquid, but still very loose.
 Then let it rest for 30 mins.
@@ -41,7 +41,7 @@ Then form it into a loaf - make the main surface nice and tight. Roll it horizon
 
 Then proof it. Cloth into the basket, then flour, then dough in, cover with a teacloth and fridge overnight
 
-![Rising](\img\sourdough\rising.jpg)
+![Rising](https://github.com/CandidContributions/CanConUmbrackathon/blob/main/Recipes/img/sourdough/rising.jpg)
 
 
 Test : When you press on it, it should spring back.
