@@ -15,3 +15,7 @@ STATUS: (what you're up to/want to be up to)
 ```
 
 See: https://github.com/CandidContributions/CanConUmbrackathon/blob/main/Guestbook/LottePitcher.md as an example
+
+## Notes
+
+Good morning Callum! 🥳
