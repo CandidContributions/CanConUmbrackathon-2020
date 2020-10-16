@@ -1,5 +1,7 @@
 # World's best pancakes
 
+![Pippi Longstockings making pancakes](https://www.idunn.no/file/ci/67095050/900x/blft-2011-2-24-g005.jpg)
+
 ## Ingredients
 
 * 3 dl fine wheat flour
@@ -12,7 +14,7 @@
 
 Mix and sift the dry stuff. Add half the milk while stirring like crazy. You should look at a homogenous goo with no lumps.  
 Whip up the eggs so they turn into a homogenous yellow goo, then add them to the dry stuff and milk.  
-Continue to add milk until there's nothing left in your measuring device.
+Continue to add milk while stirring your arm stiff, until there's nothing left in your measuring device.
 
 ## Relax
 
