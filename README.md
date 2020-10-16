@@ -20,6 +20,7 @@ If your aim is to earn an _official_ Hacktoberfest t-shirt, or get a tree plante
 
 Please add a new markdown file with the following information:
 
+```
 NAME: (your name)
 
 OUR: (your our profile link if you have one e.g. https://our.umbraco.com/members/lottepitcher/)
@@ -27,3 +28,7 @@ OUR: (your our profile link if you have one e.g. https://our.umbraco.com/members
 LOCATION: (your general location if you are happy to share it)
 
 STATUS: (what you're up to/want to be up to)
+```
+
+See: https://github.com/CandidContributions/CanConUmbrackathon/blob/main/Guestbook/LottePitcher.md as an example
+
