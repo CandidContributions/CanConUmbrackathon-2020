@@ -13,4 +13,4 @@ It's the CanCon cookbook! Add your favourite recipes for a day of coding.
 
 [Heather’s One-Pot Macaroni & Cheese recipe](HeathersOnePotMacaroniCheese.md)
 
-[Silver Fizz](Silver Fizz.md)
+[Silver Fizz](Silver%20Fizz.md)
