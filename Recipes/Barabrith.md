@@ -3,12 +3,12 @@ From Wales, whilst it translates to "mottled bread" in English, it's a lovely ca
 We use this recipe from [BBC Good Food](https://www.bbc.co.uk/food/recipes/bara_brith_33441)
 
 Ingredients
-*450g/1lb dried mixed fruit
-*250g/9oz brown sugar
-*300ml/½ pint warm black tea
-*2 tsp mixed spice
-*450g/1lb self-raising flour
-*1 free-range egg, beaten
+* 450g/1lb dried mixed fruit
+* 250g/9oz brown sugar
+* 300ml/½ pint warm black tea
+* 2 tsp mixed spice
+* 450g/1lb self-raising flour
+* 1 free-range egg, beaten
 
 Method
 **In a large bowl soak the fruit and sugar in strained tea and leave overnight.** If you forget to do this the bara brith will be too dry.
