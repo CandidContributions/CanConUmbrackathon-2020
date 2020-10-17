@@ -18,3 +18,5 @@ It's the CanCon cookbook! Add your favourite recipes for a day of coding.
 [Silver Fizz](SilverFizz.md)
 
 [World's best pancakes](World's%20best%20pancakes.md)
+
+[Banana Bread](banana-bread.md)
