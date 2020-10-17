@@ -7,14 +7,14 @@ Once you've signed up you will get a link to our Discord server. Please join us 
 ## Contributing to the Guestbook
 
 We would love everyone who joined us at any point 
-[to sign our guestbook](https://github.com/CandidContributions/CanConUmbrackathon/blob/main/Guestbook/readme.md).
+[to sign our guestbook](https://github.com/CandidContributions/CanConUmbrackathon/blob/main/Guestbook/).
 
 Never mind a tree... [we're planting a mushroom](https://candidcontributions.com/umbrackathon/status/) for everyone who signs!
 
 
 ## Sharing your Recipes
 
-No, not coding ones, [food ones!](https://github.com/CandidContributions/CanConUmbrackathon/blob/main/Recipes/readme.md )
+No, not coding ones, [food ones!](https://github.com/CandidContributions/CanConUmbrackathon/blob/main/Recipes/)
 
 ## How will the Hackathon work?
 
