@@ -1,8 +1,8 @@
 NAME: Emma Burstow  
 
-OUR: our.umbraco.com/members/emmaburstow/
+OUR: https://our.umbraco.com/members/emmaburstow/
 
-GITHUB: @emmaburstow
+GITHUB: https://github.com/emmaburstow
 
 LOCATION: Reigate, Surrey
 
