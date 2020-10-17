@@ -4,7 +4,7 @@
 
 To 'sign' our guestbook please add a new markdown (.md) file **with the same name** as your GitHub username `YourGitHubUsername.md`, and create a pull request.
 
-The information to include in the file is explained below, or copy the contents of `_template.md` into your file and update it.
+The information to include in the file is explained below, or copy the contents of `0-template.md` into your file and update it.
 
 ```
 NAME: (your name)
