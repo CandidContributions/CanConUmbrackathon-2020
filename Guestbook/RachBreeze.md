@@ -1,6 +1,6 @@
 NAME: Rachel Breeze
 
-OUR: https://our.umbraco.com/members/lottepitcher/
+OUR: https://our.umbraco.com/members/RachBreeze/
 
 GITHUB: https://github.com/RachBreeze
 
