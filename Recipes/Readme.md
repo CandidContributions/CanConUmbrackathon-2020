@@ -11,4 +11,4 @@ It's the CanCon cookbook! Add your favourite recipes for a day of coding.
 
 [Sourdough bread](https://github.com/CandidContributions/CanConUmbrackathon/blob/main/Recipes/sourdough.md)
 
-[Bara Brith](barabrith.md)
+[Bara Brith](Barabrith.md)
