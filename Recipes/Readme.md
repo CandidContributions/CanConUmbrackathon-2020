@@ -10,3 +10,5 @@ It's the CanCon cookbook! Add your favourite recipes for a day of coding.
 [Sweet potato and peanut stew](SweetPotatoPeanutStew.md)
 
 [Sourdough bread](https://github.com/CandidContributions/CanConUmbrackathon/blob/main/Recipes/sourdough.md)
+
+[Bara Brith](barabrith.md)
