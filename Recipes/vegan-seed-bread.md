@@ -1,6 +1,6 @@
 This is for a small loaf of dense heavy bread. You need a small tin eg. 12cm x 5cm x 7cm
 
-##Ingredients
+## Ingredients
 - Pumpkin seeds - 3 tbsp
 - Sunflower seeds - 3 tbsp
 - Buckleat flakes or oats - 3 tbsp
@@ -13,7 +13,7 @@ This is for a small loaf of dense heavy bread. You need a small tin eg. 12cm x 5
 - Salt - pinch
 - Warm Water - 1.5 cups
 
-##Instructions
+## Instructions
 
 1. Mix all ingredients in a bowl
 2. Pour into small baking tin
