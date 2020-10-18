@@ -8,7 +8,7 @@ LOCATION: (your general location if you are happy to share it)
 
 STATUS: (what you're up to/want to be up to)
 
-_and then list out the contributions separately you've made using the relevant prefixes:_
+_and then list the contributions you've made separately using the relevant prefixes:_
 
 PR: (for a PR you've raised or contributed to)
 
