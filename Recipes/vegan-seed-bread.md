@@ -1,3 +1,5 @@
+# Vegan Seed Bread
+
 This is for a small loaf of dense heavy bread. You need a small tin eg. 12cm x 5cm x 7cm
 
 ## Ingredients
