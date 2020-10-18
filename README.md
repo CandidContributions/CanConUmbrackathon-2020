@@ -4,6 +4,18 @@ The full schedule and sign up form is on our website 🍄 https://candidcontribu
 
 Once you've signed up you will get a link to our Discord server. Please join us over there and say hello!
 
+## Contributing to the Guestbook
+
+We would love everyone who joined us at any point 
+[to sign our guestbook](https://github.com/CandidContributions/CanConUmbrackathon/blob/main/Guestbook/).
+
+Never mind a tree... [we're planting a mushroom](https://candidcontributions.com/umbrackathon/status/) for everyone who signs!
+
+
+## Sharing your Recipes
+
+No, not coding ones, [food ones!](https://github.com/CandidContributions/CanConUmbrackathon/blob/main/Recipes/)
+
 ## How will the Hackathon work?
 
 The hackathon will run over Zoom; the link will be emailed to all participants the day before. You are welcome to come and go throughout the event. At least two hosts will be on the call at all times, so there will always be someone to welcome you and help out when needed.
@@ -15,22 +27,3 @@ If you want to get started before the hackathon, and get a feel for what you'd l
 ## Your Hackathon Aims
 
 If your aim is to earn an _official_ Hacktoberfest t-shirt, or get a tree planted, you will need to make *four* pull requests to repositories that are labeled with the `hacktoberfest` topic. If you want to achieve the _Umbraco_ Hacktoberfest challenge then you need to make *one* pull request to any of the places that we have listed for you. But don't feel obliged to work on things suggested, what you do is really up to you!
-
-## Contributing to the Guestbook
-
-Please add a new markdown file named `YourGithubUsername.md` with the following information:
-
-```
-NAME: (your name)
-
-OUR: (your our profile link if you have one e.g. https://our.umbraco.com/members/lottepitcher/)
-
-GITHUB: (your github profile link)
-
-LOCATION: (your general location if you are happy to share it)
-
-STATUS: (what you're up to/want to be up to)
-```
-
-See: https://github.com/CandidContributions/CanConUmbrackathon/blob/main/Guestbook/LottePitcher.md as an example
-
