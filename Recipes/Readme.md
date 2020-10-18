@@ -13,7 +13,7 @@ It's the CanCon cookbook! Add your favourite recipes for a day of coding.
 
 [Heather’s One-Pot Macaroni & Cheese recipe](HeathersOnePotMacaroniCheese.md)
 
-[Italian lasagna](guiseppes-lasagna.md)
+[Italian lasagna](Guiseppes-lasagna.md)
 
 [Silver Fizz](SilverFizz.md)
 
