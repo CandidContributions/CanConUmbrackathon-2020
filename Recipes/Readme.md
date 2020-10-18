@@ -24,3 +24,5 @@ It's the CanCon cookbook! Add your favourite recipes for a day of coding.
 [Bara Brith](Barabrith.md)
 
 [Stilton Twists](StiltonTwists.md)
+
+[Vegan Seed Bread](vegan-seed-bread.md)
