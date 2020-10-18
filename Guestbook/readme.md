@@ -2,7 +2,7 @@
 
 ## Contributing to the Guestbook
 
-To 'sign' our guestbook please add a new markdown (.md) file **with the same name** as your GitHub username `YourGitHubUsername.md`, and create a pull request.
+To 'sign' our guestbook please add a new markdown (.md) file **with the same name** as your GitHub username, i.e. `YourGitHubUsername.md`, and create a pull request.
 
 The information to include in the file is explained below, or copy the contents of `0-template.md` into your file and update it.
 
@@ -33,7 +33,3 @@ BLOG: (url of the blog post you've written)
 PACKAGE: (url of the package you've released 🎉)
 
 ``` 
-
-## Notes
-
-Good morning Callum! 🥳
