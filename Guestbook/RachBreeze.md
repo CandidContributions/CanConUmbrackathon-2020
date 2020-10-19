@@ -16,5 +16,6 @@ PR: https://github.com/umbraco/Umbraco-CMS/pull/9203
 
 BLOG: Also as part of the https://accessibilitycluster.com/ I really wanted to add language of parts (as per status above), I got this far https://github.com/RachBreeze/Umbraco-CMS/tree/feature/v8/tmplanguageofparts
 
-Made a start on icon support in checkboxes
+Made a start on icon support in checkboxes (and resulting PR https://github.com/umbraco/Umbraco-CMS/pull/9222 submitted on 19/10)
+
 
