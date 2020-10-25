@@ -9,5 +9,5 @@ LOCATION: Silly Colne Valley
 
 STATUS: Growing old disgracefully
 
-PR: [https://github.com/umbraco/Umbraco-CMS/pull/9187](https://github.com/umbraco/Umbraco-CMS/pull/9187)
+PR: https://github.com/umbraco/Umbraco-CMS/pull/9187
 

@@ -19,7 +19,7 @@ STATUS: (what you're up to/want to be up to)
 
 ```
 
-And we would love to hear what you've been up to! Please share it with us by adding each contribution separately, with the prefix or PR, ISSUE, FORUM, BLOG or PACKAGE, e.g:
+And we would love to hear what you've been up to! Please share it with us by adding each contribution Url separately, with the prefix or PR, ISSUE, FORUM, BLOG or PACKAGE, e.g:
 
 ```
 PR: (url of the pull request you've raised or contributed to)

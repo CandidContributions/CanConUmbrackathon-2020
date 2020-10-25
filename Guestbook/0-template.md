@@ -8,14 +8,14 @@ LOCATION: (your general location if you are happy to share it)
 
 STATUS: (what you're up to/want to be up to)
 
-_and then list the contributions you've made separately using the relevant prefixes:_
+_and then list the Url of each contribution you've made separately using the relevant prefixes:_
 
-PR: (for a PR you've raised or contributed to)
+PR: (url of the pull request you've raised or contributed to)
 
-ISSUE: (for an issue you have reviewed and commented upon)
+ISSUE: (url of the issue you have reviewed and commented upon)
 
-FORUM: (for a forum post you've answered)
+FORUM: (url of the forum post you've answered)
 
-BLOG: (for a blog post you've written)
+BLOG: (url of the blog post you've written)
 
-PACKAGE: (for a package you've released 🎉)
+PACKAGE: (url of the package you've released 🎉)
