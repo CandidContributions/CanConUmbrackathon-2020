@@ -4,6 +4,6 @@ OUR: https://our.umbraco.com/members/MjDhaneshKumar/
 
 GITHUB: https://github.com/MjDhaneshKumar
 
-LOCATION: Kerala, INDIA
+LOCATION: Kozhuvalloor, Kerala, INDIA
 
-STATUS: :)
+STATUS: Build useful things with my skills
